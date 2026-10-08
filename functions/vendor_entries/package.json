@@ -1,0 +1,9 @@
+{
+	"name": "vendor_entries",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "premkumar.r@zohocorphelpdesk.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

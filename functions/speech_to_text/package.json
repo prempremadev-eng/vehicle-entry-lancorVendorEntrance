@@ -1,0 +1,10 @@
+{
+	"name": "speech_to_text",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "premkumar.r@zohocorphelpdesk.com",
+	"dependencies": {
+		"busboy": "^1.6.0",
+		"zcatalyst-sdk-node": "latest"
+	}	
+}

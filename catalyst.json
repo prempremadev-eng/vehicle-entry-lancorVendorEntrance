@@ -1,0 +1,19 @@
+{
+  "functions": {
+    "targets": [
+      "vendor_entries",
+      "plate_scan",
+      "speech_to_text",
+      "guard_profile",
+      "vehicle_photo"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "slate": [
+    {
+      "name": "lancor-vendor-entrance",
+      "source": "/home/prem/vehicle-entry-lancorVendorEntrance"
+    }
+  ]
+}

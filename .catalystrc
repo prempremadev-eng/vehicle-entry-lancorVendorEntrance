@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "50225000000019001",
+      "name": "vehicle-entry-lancorVendorEntrance",
+      "domain": {
+        "id": "50045927291",
+        "name": "vehicle-entry-lancorvendorentrance-60086856508.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60086856508",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
